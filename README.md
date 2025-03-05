@@ -4,6 +4,6 @@
 
 ## ❔ About
 #### `🏷️ My name is İbrahim`
-`🤓 I am Full-Stack developer`
-`🎌 I live in Turkey`
-`🖥️ My favorite programming language` [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
+#### `🤓 I am Full-Stack developer`
+#### `🎌 I live in Turkey`
+#### `🖥️ My favorite programming language` [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
